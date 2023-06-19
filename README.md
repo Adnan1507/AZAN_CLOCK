@@ -14,4 +14,4 @@ In this feature you will get to see the timings of the azan of daily prayers. Yo
 **DUAS**
 In this feature you will get to see some basic important duas. By selecting the specific dua you can hear the audio of the dua along with its transliteration as well as translation of it in english.
 
-This are the main features of our application. To better understand this application, I'll suggest watching the video representation that I attached with the files.
+This are the main features of our application. To better understand this application, I'll suggest watching the video representation that I attached with the files named Azan clock tutorial.
